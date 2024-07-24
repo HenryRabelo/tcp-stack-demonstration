@@ -2,10 +2,9 @@
 
 # TCP/IP Stack Demonstration
 ### An Object-Oriented Pyhton demonstration of how the TCP/IP Stack functions
-
 [![Python Badge](https://img.shields.io/badge/Made_with_Python-3776AB?logo=python&labelColor=white)](https://python.org/)
-
 ##
+
 [Intro](#introduction) • [Run it](#how-to-run-it) • [Use it](#how-to-use-it)
 
 [![Client.py Documentation](https://custom-icon-badges.demolab.com/badge/Client.py_Documentation-171515?logo=book)](#client)
@@ -19,24 +18,29 @@ This is a client / server practical demonstration of the functionality of the TC
 This project was made for a presentation about the TCP / IP Stack during college.
 
 ### How to Run it
-To run the application, first run the server, then on a different terminal the client applications, in the following manner:
+To run the application, first run the server, then on a different terminal the client application, in the following manner:
+
 ###### Server Terminal:
 ```sh
 cd Stack
 python3 server.py
 ```
+
 ###### Client Terminal:
 ```sh
 cd Stack
 python3 client.py
 ```
+
 If examining the Server application is not necessary, it can also be run on the background, facilitating execution
+
 ###### Client & Server (single terminal):
 ```sh
 cd Stack
 python3 server.py &
 python3 client.py
 ```
+
 > ###### Dependencies:
 > This project depends on `python3` and the following python libraries: `socket` `pickle`
 
@@ -47,8 +51,8 @@ The `help` command prints all available commands on the terminal screen. A singl
 
 <div align="center">
   
-  <img src="assets/images/Client.png" alt="Client.py on Terminal" width="500"/>
-  <img src="assets/images/Server.png" alt="Server.py on Terminal" width="500"/>
+  <img src="assets/images/Client.png" alt="Client.py on Terminal" width="400"/>
+  <img src="assets/images/Server.png" alt="Server.py on Terminal" width="400"/>
   
 </div>
 
