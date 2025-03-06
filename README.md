@@ -51,8 +51,8 @@ The `help` command prints all available commands on the terminal screen. A singl
 
 <div align="center">
   
-  <img src="assets/images/Client.png" alt="Client.py on Terminal" width="400"/>
-  <img src="assets/images/Server.png" alt="Server.py on Terminal" width="400"/>
+  <img src=".assets/images/Client.png" alt="Client.py on Terminal" width="400"/>
+  <img src=".assets/images/Server.png" alt="Server.py on Terminal" width="400"/>
   
 </div>
 
